@@ -2,7 +2,7 @@
 Todo App using Expo CLI
 ---
 
-# A simple todo built with react native
+### A simple todo built using react native
 
 <p>To run this project</p>
 <ul>
